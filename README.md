@@ -9,6 +9,6 @@ The purpose of this task to continue to become familiar with the data analysis p
 
 File Descriptions:
 1.	./data/ contains the various datasets
-2.	./bikeshare_2.py is a containing the work I have done
+2.	./bikeshare_2_updated.py is a containing the work I have done
 
 References & Citations Data provided by: Motivate
